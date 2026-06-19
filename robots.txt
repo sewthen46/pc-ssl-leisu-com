@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sewthen46.github.io/pc-ssl-leisu-com/sitemap.xml
